@@ -1,0 +1,44 @@
+body {
+background-image: url(fon.jpg);
+background-color: pink;
+background-size: 170%;
+background-repeat: no-repeat;
+background-position: center top;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 30px;
+	color: pink;
+	letter-spacing: 2px;
+	font-size: 32px;
+}
+
+div{
+	margin-top: 30px;
+	text-align: center;
+	color: pinkpink;
+}
+
+p {
+	margin-top: 30px;
+	text-align: center;
+	font-size: 22px;
+	color: pink;
+}
+
+blockquote {
+	margin-top: 30px;
+    font-size: 30px;
+    margin-top: 30px;
+    letter-spacing: 1.5px;
+	color: pink;
+}
+	
+article img {
+	margin-top: 30px;
+    vertical-align: middle;
+    width: 20%;
+    height: 20%;
+    border-radius: 10%;
+}
